@@ -1,9 +1,9 @@
-# Olá 👋, Me chamo Guilherme Andrade
+# Hi 👋, I'm Guilherme Andrade
 
- **Sou graduando em ADS pela [Estácio].[https://estacio.br]**  
+ **Sou graduando em ADS pela** [Estácio].[https://estacio.br] 
 🇧🇷 Brasil
 
-Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contempo esse portfolio com o Objetivo de **Organizar estudos e projetos**, Documentar praticas Acadêmicas desenvolvidas durante a formação e **Registar evoluções e Progressos**
+Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contempo esse portfolio com o **Objetivo** de **Organizar** estudos e projetos, **Documentar** praticas Acadêmicas desenvolvidas durante a formação e **Registar** evoluções e Progressos.
 
 ---
 
