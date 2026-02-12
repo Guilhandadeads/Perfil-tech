@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme Andrade
+# Hi 👋, I'm Guilherme
 
  **Sou graduando em ADS pela** [Estácio](https://www.estacio.br)
  
