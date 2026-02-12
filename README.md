@@ -8,31 +8,19 @@ Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contem
 
 ---
 
-## 🌐 Onde me encontar
+## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/Guilhermeandrademendes">
-    <img src="https://img.shields.io/badge/GitHub-GUILHERMEANDRADEMENDES-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/guilhandrade">
-    <img src="https://img.shields.io/badge/Instagram-@guilhandrade-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+
 
 
 ## 📊 GitHub status
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeandrademendes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeandrademendes&layout=compact&theme=tokyonight" />
-</p>
 
----
 
-## 🚀 Filosofias e inspirações
+## 🚀 Philosophies and inspirations
 
-**"A melhor maneira de prever o futuro é inventá-lo." — Steve Jobs**
+"A melhor maneira de **prever** o futuro é **inventá-lo**." — Steve Jobs
 
-**"O verdadeiro problema não é se as máquinas pensam, mas se os humanos o fazem - B.F. Skinner**
+"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem** - B.F. Skinner
 
-**"O Código que escreve hoje, é o legado do amanhã"**
+"O Código que escreve hoje, é o **legado** do amanhã"
