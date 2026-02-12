@@ -13,4 +13,4 @@ Escolhi cursar Analise e Desenvolvimento de Sistemas pela prática dinâmica na 
 ### OBJETIVOS 🎯
 - Documentar estudos e Praticas desenvolvidas
 - Organizar e reunir projetos
-- Acompanhar e registrar minha evolução ac  acadêmica e técnica.
+- Acompanhar e registrar minha evolução acadêmica e técnica.
