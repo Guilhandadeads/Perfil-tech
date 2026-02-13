@@ -10,10 +10,21 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 
 ## 🌐 Where to find me
 
+<p align="left">
+  <a href="https://github.com/guilhermeandradeads">
+    <img src="https://img.shields.io/badge/GitHub-GUILHERMEANDRADEADS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/guilhandrade._">
+    <img src="https://img.shields.io/badge/Instagram-@GUILHANDRADE._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 ## 📊 GitHub status
 
-
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeandradeads&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
 ## 🚀 Philosophies and inspirations
 
