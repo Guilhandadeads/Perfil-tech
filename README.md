@@ -10,7 +10,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 
 ---
 
-## 🌐 WHERE to FIND ME
+## 🌐 WHERE to FIND me
 
 <p align="left">
 <a href="mailto:guilhermeandrademendes10@gmail.com">
@@ -23,7 +23,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 </p>
 
 
-## 📊 GITHUB STATUS
+## 📊 GITHUB status
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
 
