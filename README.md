@@ -40,4 +40,4 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 
 "O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem** — B.F. Skinner
 
-"O Código que escreve hoje, é o **legado** do amanhã"
+"O Código que escreve hoje, será o seu **legado** amanhã"
